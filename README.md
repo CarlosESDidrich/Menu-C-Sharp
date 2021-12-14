@@ -2,7 +2,7 @@
 
 09/08/2021 a 25/08/2021 Projeto de Pessoal | Desenvolvedor C#.NET 
 
-Desenvolvi um menu com questões de programação, para treinar e moldar meus conhecimentos.
+Desenvolvi um menu com questões de programação, com o objetivo de treinar e moldar meus conhecimentos.
 
 Habilidades desenvolvidas:
 - C# .NET | Visual Studio 2019;
