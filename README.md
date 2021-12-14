@@ -5,7 +5,7 @@
 Desenvolvi um menu com questões de programação, com o objetivo de treinar e moldar meus conhecimentos.
 
 Habilidades desenvolvidas:
-- C# .NET | Visual Studio 2019;
+- C# .NET | VS code;
 - Lógica de programação;
 - Organização de código;
 - Introdução a POO;
