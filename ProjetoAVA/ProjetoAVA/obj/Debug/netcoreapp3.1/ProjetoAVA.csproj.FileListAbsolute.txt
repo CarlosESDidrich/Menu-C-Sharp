@@ -1,0 +1,28 @@
+C:\Users\User\Documents\IFRO\Nocões de programação\ProjetoAVA\ProjetoAVA\bin\Debug\netcoreapp3.1\ProjetoAVA.exe
+C:\Users\User\Documents\IFRO\Nocões de programação\ProjetoAVA\ProjetoAVA\bin\Debug\netcoreapp3.1\ProjetoAVA.deps.json
+C:\Users\User\Documents\IFRO\Nocões de programação\ProjetoAVA\ProjetoAVA\bin\Debug\netcoreapp3.1\ProjetoAVA.runtimeconfig.json
+C:\Users\User\Documents\IFRO\Nocões de programação\ProjetoAVA\ProjetoAVA\bin\Debug\netcoreapp3.1\ProjetoAVA.runtimeconfig.dev.json
+C:\Users\User\Documents\IFRO\Nocões de programação\ProjetoAVA\ProjetoAVA\bin\Debug\netcoreapp3.1\ProjetoAVA.dll
+C:\Users\User\Documents\IFRO\Nocões de programação\ProjetoAVA\ProjetoAVA\bin\Debug\netcoreapp3.1\ProjetoAVA.pdb
+C:\Users\User\Documents\IFRO\Nocões de programação\ProjetoAVA\ProjetoAVA\obj\Debug\netcoreapp3.1\ProjetoAVA.csproj.AssemblyReference.cache
+C:\Users\User\Documents\IFRO\Nocões de programação\ProjetoAVA\ProjetoAVA\obj\Debug\netcoreapp3.1\ProjetoAVA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\IFRO\Nocões de programação\ProjetoAVA\ProjetoAVA\obj\Debug\netcoreapp3.1\ProjetoAVA.AssemblyInfoInputs.cache
+C:\Users\User\Documents\IFRO\Nocões de programação\ProjetoAVA\ProjetoAVA\obj\Debug\netcoreapp3.1\ProjetoAVA.AssemblyInfo.cs
+C:\Users\User\Documents\IFRO\Nocões de programação\ProjetoAVA\ProjetoAVA\obj\Debug\netcoreapp3.1\ProjetoAVA.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IFRO\Nocões de programação\ProjetoAVA\ProjetoAVA\obj\Debug\netcoreapp3.1\ProjetoAVA.dll
+C:\Users\User\Documents\IFRO\Nocões de programação\ProjetoAVA\ProjetoAVA\obj\Debug\netcoreapp3.1\ProjetoAVA.pdb
+C:\Users\User\Documents\IFRO\Nocões de programação\ProjetoAVA\ProjetoAVA\obj\Debug\netcoreapp3.1\ProjetoAVA.genruntimeconfig.cache
+C:\Users\User\Documents\IFRO\1º Período\Algoritmos e Linguagem de Programação\Entrega de Atividade Final\ProjetoAVA\ProjetoAVA\bin\Debug\netcoreapp3.1\ProjetoAVA.exe
+C:\Users\User\Documents\IFRO\1º Período\Algoritmos e Linguagem de Programação\Entrega de Atividade Final\ProjetoAVA\ProjetoAVA\bin\Debug\netcoreapp3.1\ProjetoAVA.deps.json
+C:\Users\User\Documents\IFRO\1º Período\Algoritmos e Linguagem de Programação\Entrega de Atividade Final\ProjetoAVA\ProjetoAVA\bin\Debug\netcoreapp3.1\ProjetoAVA.runtimeconfig.json
+C:\Users\User\Documents\IFRO\1º Período\Algoritmos e Linguagem de Programação\Entrega de Atividade Final\ProjetoAVA\ProjetoAVA\bin\Debug\netcoreapp3.1\ProjetoAVA.runtimeconfig.dev.json
+C:\Users\User\Documents\IFRO\1º Período\Algoritmos e Linguagem de Programação\Entrega de Atividade Final\ProjetoAVA\ProjetoAVA\bin\Debug\netcoreapp3.1\ProjetoAVA.dll
+C:\Users\User\Documents\IFRO\1º Período\Algoritmos e Linguagem de Programação\Entrega de Atividade Final\ProjetoAVA\ProjetoAVA\bin\Debug\netcoreapp3.1\ProjetoAVA.pdb
+C:\Users\User\Documents\IFRO\1º Período\Algoritmos e Linguagem de Programação\Entrega de Atividade Final\ProjetoAVA\ProjetoAVA\obj\Debug\netcoreapp3.1\ProjetoAVA.csproj.AssemblyReference.cache
+C:\Users\User\Documents\IFRO\1º Período\Algoritmos e Linguagem de Programação\Entrega de Atividade Final\ProjetoAVA\ProjetoAVA\obj\Debug\netcoreapp3.1\ProjetoAVA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\IFRO\1º Período\Algoritmos e Linguagem de Programação\Entrega de Atividade Final\ProjetoAVA\ProjetoAVA\obj\Debug\netcoreapp3.1\ProjetoAVA.AssemblyInfoInputs.cache
+C:\Users\User\Documents\IFRO\1º Período\Algoritmos e Linguagem de Programação\Entrega de Atividade Final\ProjetoAVA\ProjetoAVA\obj\Debug\netcoreapp3.1\ProjetoAVA.AssemblyInfo.cs
+C:\Users\User\Documents\IFRO\1º Período\Algoritmos e Linguagem de Programação\Entrega de Atividade Final\ProjetoAVA\ProjetoAVA\obj\Debug\netcoreapp3.1\ProjetoAVA.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IFRO\1º Período\Algoritmos e Linguagem de Programação\Entrega de Atividade Final\ProjetoAVA\ProjetoAVA\obj\Debug\netcoreapp3.1\ProjetoAVA.dll
+C:\Users\User\Documents\IFRO\1º Período\Algoritmos e Linguagem de Programação\Entrega de Atividade Final\ProjetoAVA\ProjetoAVA\obj\Debug\netcoreapp3.1\ProjetoAVA.pdb
+C:\Users\User\Documents\IFRO\1º Período\Algoritmos e Linguagem de Programação\Entrega de Atividade Final\ProjetoAVA\ProjetoAVA\obj\Debug\netcoreapp3.1\ProjetoAVA.genruntimeconfig.cache
