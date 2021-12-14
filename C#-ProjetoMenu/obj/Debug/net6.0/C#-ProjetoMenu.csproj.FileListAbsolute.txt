@@ -1,0 +1,15 @@
+C:\Users\User\Documents\VScode-Projetos\C#-ProjetoMenu\bin\Debug\net6.0\C#-ProjetoMenu.exe
+C:\Users\User\Documents\VScode-Projetos\C#-ProjetoMenu\bin\Debug\net6.0\C#-ProjetoMenu.deps.json
+C:\Users\User\Documents\VScode-Projetos\C#-ProjetoMenu\bin\Debug\net6.0\C#-ProjetoMenu.runtimeconfig.json
+C:\Users\User\Documents\VScode-Projetos\C#-ProjetoMenu\bin\Debug\net6.0\C#-ProjetoMenu.dll
+C:\Users\User\Documents\VScode-Projetos\C#-ProjetoMenu\bin\Debug\net6.0\ref\C#-ProjetoMenu.dll
+C:\Users\User\Documents\VScode-Projetos\C#-ProjetoMenu\bin\Debug\net6.0\C#-ProjetoMenu.pdb
+C:\Users\User\Documents\VScode-Projetos\C#-ProjetoMenu\obj\Debug\net6.0\C#-ProjetoMenu.csproj.AssemblyReference.cache
+C:\Users\User\Documents\VScode-Projetos\C#-ProjetoMenu\obj\Debug\net6.0\C#-ProjetoMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\VScode-Projetos\C#-ProjetoMenu\obj\Debug\net6.0\C#-ProjetoMenu.AssemblyInfoInputs.cache
+C:\Users\User\Documents\VScode-Projetos\C#-ProjetoMenu\obj\Debug\net6.0\C#-ProjetoMenu.AssemblyInfo.cs
+C:\Users\User\Documents\VScode-Projetos\C#-ProjetoMenu\obj\Debug\net6.0\C#-ProjetoMenu.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VScode-Projetos\C#-ProjetoMenu\obj\Debug\net6.0\C#-ProjetoMenu.dll
+C:\Users\User\Documents\VScode-Projetos\C#-ProjetoMenu\obj\Debug\net6.0\ref\C#-ProjetoMenu.dll
+C:\Users\User\Documents\VScode-Projetos\C#-ProjetoMenu\obj\Debug\net6.0\C#-ProjetoMenu.pdb
+C:\Users\User\Documents\VScode-Projetos\C#-ProjetoMenu\obj\Debug\net6.0\C#-ProjetoMenu.genruntimeconfig.cache
